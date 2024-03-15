@@ -1,4 +1,4 @@
-spring.application.name=Config-Server
+spring.application.name=USER-SERVICE22
 server.port=2028
 
 # Eureka Client Configuration
